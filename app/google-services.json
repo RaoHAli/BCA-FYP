@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "571639509544",
+    "firebase_url": "https://fir-bca.firebaseio.com",
+    "project_id": "fir-bca",
+    "storage_bucket": "fir-bca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571639509544:android:56644a3dd65fb55d",
+        "android_client_info": {
+          "package_name": "com.bca.deepthinker.bca"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571639509544-qjs8jne11gt05q2qrrtt3l9ru9nhumsf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkw6ffdwehaqzEKT1f-YMp-s9TjyL_MHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571639509544-qjs8jne11gt05q2qrrtt3l9ru9nhumsf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

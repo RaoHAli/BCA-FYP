@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/list_item_string"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+
+
+        android:paddingLeft="65dp"
+        android:paddingTop="10dp"
+        android:text="myvvv"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/imageViewformes"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerVertical="true"
+        app:srcCompat="@drawable/profile" />
+
+    <TextView
+        android:id="@+id/textViewmescont"
+        android:layout_width="wrap_content"
+        android:layout_height="60dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="300dp"
+        android:paddingTop="20dp"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/textViewmescont2"
+        android:layout_width="wrap_content"
+        android:layout_height="60dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="181dp"
+        android:paddingTop="20dp" />
+
+
+</RelativeLayout>
